@@ -44,8 +44,8 @@ The project management process evolves through a creative project's lifecycle st
 
 As a creative project manager, your role is to navigate and plan efficient resource management. There are two major creative resources to manage:
 
-    #Team. Creative marketing teams often have varied skillsets and strengths, so it’s important to know and leverage your creatives’ strengths were it’s most relevant.
-    #Time. Creatives work best when given a set of parameters, deadlines, and expectations around project turnaround–which is why time management is essential.
+    1.  Team. Creative marketing teams often have varied skillsets and strengths, so it’s important to know and leverage your creatives’ strengths were it’s most relevant.
+    2.  Time. Creatives work best when given a set of parameters, deadlines, and expectations around project turnaround–which is why time management is essential.
 
 The key to managing creative resources is knowing what your team is capable of and then keeping them on task
 
